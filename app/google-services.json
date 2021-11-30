@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "386749957546",
+    "project_id": "trojanapp-da53d",
+    "storage_bucket": "trojanapp-da53d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386749957546:android:50b7a3d955d220aef5d7d3",
+        "android_client_info": {
+          "package_name": "com.example.trojanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386749957546-kdg89dbpaqhac3gloku6r9vkv75kk8j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trojanapp",
+            "certificate_hash": "916759d0a860623873951b453f1bd5b0b382be2c"
+          }
+        },
+        {
+          "client_id": "386749957546-tn7lhiq0hnkh0qgudjgdfl2p08n2t5nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFfHIl2Q8uW78BMkzsu7PSpSxyQ8cBfM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386749957546-tn7lhiq0hnkh0qgudjgdfl2p08n2t5nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
